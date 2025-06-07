@@ -1,0 +1,11 @@
+<h2 class="text-2xl font-semibold mb-4">Policies, Code, Disclosure and Other Documents</h2>
+
+<p class="mb-4">Policies:</p>
+
+<p class="mb-4"><a href="docs/fair-practice-code.pdf" class="text-blue-700 underline">Fair Practice Code</a></p>
+<p class="mb-4"><a href="docs/grievance-redressal-policy.pdf" class="text-blue-700 underline">Policy on Grievance Redressal Mechanism</a></p>
+<p class="mb-4"><a href="docs/data-privacy-policy.pdf" class="text-blue-700 underline">Data Privacy policy</a></p>
+<p class="mb-4"><a href="docs/ombudsman-scheme.pdf" class="text-blue-700 underline">Salient Features of Ombudsman Scheme</a></p>
+<p class="mb-4"><a href="docs/interest-rate-policy.pdf" class="text-blue-700 underline">Policy on Interest Rates and Service Charges including the rates of interest and the approach for gradation of risks</a></p>
+<p class="mb-4"><a href="docs/customer-education.pdf" class="text-blue-700 underline">Customer Education</a></p>
+<p class="mb-4"><a href="docs/general-terms.pdf" class="text-blue-700 underline">General T&Cs</a></p>
