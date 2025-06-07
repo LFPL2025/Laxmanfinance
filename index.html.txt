@@ -1,0 +1,42 @@
+<img src="assets/LFPL.png" alt="LFPL Logo" class="h-10 w-auto" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Home - Laxman Finance Pvt. Ltd.</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-800">
+  <header class="bg-blue-900 text-white p-4 flex justify-between">
+    <h1 class="text-2xl font-bold">Laxman Finance Pvt. Ltd.</h1>
+    <nav class="space-x-4 text-sm">
+      <a href="index.html" class="underline">Home</a>
+      <a href="leadership.html">Leadership</a>
+      <a href="loan-products.html">Loan Products</a>
+      <a href="policies.html">Policies</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main class="p-6 whitespace-pre-line">
+Headline: “Reliable Financial Solutions for Your Growth”
+
+Brief Introduction:
+Welcome to Laxman Finance Pvt. Ltd., your trusted partner in financial solutions. With a commitment to transparency and innovation, we offer customized lending services designed to empower businesses and individuals.
+
+About Us
+Company Overview:
+Established in 2023, Laxman Finance Pvt. Ltd. is an RBI-registered NBFC specializing in customized financial solutions.
+
+The company is having a valid Certificate of Registration dated 07.02.2025 issued by Reserve Bank of India under section 45 IA of the Reserve Bank of India Act, 1934. However, the Reserve Bank of India does not accept any responsibility or guarantee about the present position as to the financial soundness of the company or for the correctness of any of the statements or representations made or opinions expressed by the company and for the repayment of deposits/discharge of liabilities by the company.
+
+Disclaimer: Reserve Bank of India neither accepts any responsibility nor guarantees the present position as to the financial soundness of the company or for the correctness of any of the statements or representations made or opinions expressed by the company and for discharge of any liability by the company.
+
+Neither there is any provision in law to keep, nor does the company keep any part of the deposits with Reserve Bank of India and by issuing a Certificate of Registration to the company, the Reserve Bank of India, neither accepts any responsibility nor guarantees the payment of deposits to any depositor or any person who has lent any sum to the company.
+
+Our Mission & Vision:
+Mission: LFPL is committed to integrity, transparency, ease of availing loans and customer satisfaction which will set it apart as a trusted partner in the journey towards financial independence. LFPL will pave the way for a new era in financial services, where success meets innovation and every aspiration finds a path to fulfilment.
+Vision: Providing accessible and structured financial services. Enabling financial inclusion through responsible lending.
+  </main>
+</body>
+</html>

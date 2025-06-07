@@ -1,0 +1,43 @@
+<img src="assets/LFPL.png" alt="LFPL Logo" class="h-10 w-auto" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Leadership - Laxman Finance Pvt. Ltd.</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-800">
+  <header class="bg-blue-900 text-white p-4 flex justify-between">
+    <h1 class="text-2xl font-bold">Laxman Finance Pvt. Ltd.</h1>
+    <nav class="space-x-4 text-sm">
+      <a href="index.html">Home</a>
+      <a href="leadership.html" class="underline">Leadership</a>
+      <a href="loan-products.html">Loan Products</a>
+      <a href="policies.html">Policies</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main class="p-6 whitespace-pre-line">
+Leadership Team:
+Board of Directors
+
+Mr. Nirmal Kumar
+Mr. Nirmal Kumar has worked as a Senior Executive at Bank of India, having 39 years of extensive experience across diverse verticals including Credit Sanctioning, Recovery, Compliance, Leadership, Branch Management, Audit, HR, and Corporate Services...
+
+Mr. Arul Kumar
+Arul Kumar has worked as Senior Manager at Bank of India, with 10 years of comprehensive experience in Banking and Financial Services...
+
+Mr. Bharat Damjibhai Vasoya
+Mr. Bharat Damjibhai Vasoya is a Non-Executive Director on the board of LFPL. He is a practising advocate enrolled with the Bar Council of Gujarat since 2005...
+
+Mr. Shashikant Patel
+Mr. Shashikant Patel hails from a professional background spanning healthcare management, legal expertise and strategic leadership...
+
+Management Team
+Chief Executive Officer
+Mr. Adrian Joseph Fernandez
+A seasoned finance professional with over 35 years of leadership experience...
+  </main>
+</body>
+</html>
